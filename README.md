@@ -26,6 +26,4 @@ The system comprises a CNN model integrated with a Flask web application. The wo
   - Neural Networks and CNNs
   - Flask Framework
 
-### Installation
-```bash
-pip install numpy pandas tensorflow==2.3.2 keras==2.3.1 Flask
+
