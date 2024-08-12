@@ -25,5 +25,21 @@ The system comprises a CNN model integrated with a Flask web application. The wo
   - Deep Learning Concepts
   - Neural Networks and CNNs
   - Flask Framework
+User InterFace is as Follows:
+![image](https://github.com/user-attachments/assets/d6eb219e-05d0-45ce-bdbd-e24eba75cff3)
+![image](https://github.com/user-attachments/assets/fb9ecf9b-489b-47ed-bffb-20e52188e2d0)
+![image](https://github.com/user-attachments/assets/59d408c5-536c-4ade-a3e7-2ed0b6b49c69)
+
+upload the Image of the Dish and Predict the Item is a Hotdog or not
+![image](https://github.com/user-attachments/assets/a6c511a1-1800-41e7-b918-289fc6ef62c2)
+Predictions are as Follows:
+![image](https://github.com/user-attachments/assets/cdf36d86-7f2e-487d-8e2d-7fb1cc89a650)
+![image](https://github.com/user-attachments/assets/d9078a9f-2a36-4251-9f31-a6b555090cce)
+
+
+
+
+
+
 
 
